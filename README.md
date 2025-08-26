@@ -1,3 +1,3 @@
 # INI ADALAH REPOSITORY UNTUK LATIHAN MEMBUAT BRANCH BARU DI GITHUB
+Belajar GitHub di Dicoding itu seru!
 
-GitHub itu asyik lo
